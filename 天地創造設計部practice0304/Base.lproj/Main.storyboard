@@ -78,7 +78,7 @@
                             </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="1b1-UN-XGy"/>
-                        <color key="backgroundColor" red="0.90980392156862744" green="0.90980392156862744" blue="0.89411764705882346" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.98039215690000003" green="0.88235294119999996" blue="0.86666666670000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <navigationItem key="navigationItem" id="4UL-cJ-jxf"/>
                 </viewController>
